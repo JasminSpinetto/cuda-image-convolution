@@ -135,5 +135,5 @@ cuda-image-convolution/
 
 ## Credits
 This project was developed as part of the Parallel Computing course in collaboration with:
-- Felipe Epia
-- Anna Paola Izzo
+- Luis Felipe Epia Realpe ([Felipe-Epia](https://github.com/fffeelipe))
+- Anna Paola Izzo ([Anna-Paola-Izzo](https://github.com/AnnaPaola00))
